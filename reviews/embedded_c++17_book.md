@@ -1,9 +1,13 @@
 # Обзор на книгу "Программирование встроенных систем на C++17" Майа Пош
 
 [Ссылка на оригинальную версию книги Goodreads.com](https://www.goodreads.com/book/show/43845394-hands-on-embedded-programming-with-c-17?from_search=true&from_srp=true&qid=fVkg65UtaC&rank=1)
-[ozon](https://www.ozon.ru/product/programmirovanie-vstroennyh-sistem-na-s-17-217051440/?asb=noBmOBkEliEqNjv2JiIZ8HQbN05RVQyMMqiQgR2gEdY%253D&asb2=0mXnPVUG919KFULYddfyEW-dnx-tPBN4l0wioFQd1rpE2JafcboEKL6SXTa5QE-s&keywords=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B2%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D1%85+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC&sh=bu_wy1X8tg)
+[Ссылка на ozon](https://www.ozon.ru/product/programmirovanie-vstroennyh-sistem-na-s-17-217051440/?asb=noBmOBkEliEqNjv2JiIZ8HQbN05RVQyMMqiQgR2gEdY%253D&asb2=0mXnPVUG919KFULYddfyEW-dnx-tPBN4l0wioFQd1rpE2JafcboEKL6SXTa5QE-s&keywords=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B2%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D1%85+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC&sh=bu_wy1X8tg)
 
+
+__Summary:__
 Оценка(из 5): 🐭🐭
+Страниц: 395
+Время прочтения: 20 часов
 
 ## Для кого эта книга
 
